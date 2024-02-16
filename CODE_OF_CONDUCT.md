@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-During the development of the `YelpViz` R package on GitHub, our goal is to simplify the visualization process by retrieving business-related information using Yelp's API and providing plotted charts for analysis. However, we would also like to ensure that the collaboration process is an open, friendly, and supportive environment for all members to enjoy.
+During the development of the Spotify Dashboard on GitHub, our goal is to provide the visualizations required for a user to really engage with an interface to gain more insight about their music preference. However, we would also like to ensure that the collaboration process is an open, friendly, and supportive environment for all members to enjoy.
 
 ## Our Commitment  
 As contributors and maintainers of this project, we pledge to foster an inclusive and respectful community. We strive to provide a welcoming environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or nationality.
