@@ -54,7 +54,7 @@ Please note that by participating in this project, you agree to abide by the [Co
 
 ### Contact
 
-If you have any questions or need further assistance, feel free to contact us at [nijiati\@email.com](mailto:nijiati@email.com){.email}, [kulaphong\@email.com](mailto:kulaphong@email.com){.email}, or [cadlam87\@gmail.com](mailto:cadlam87@gmail.com){.email}.
+If you have any questions or need further assistance, feel free to contact us at [nijiati\@email.com](mailto:nijiati@email.com), [kulaphong\@email.com](mailto:kulaphong@email.com), or [cadlam87\@gmail.com](mailto:cadlam87@gmail.com).
 
 Thank you for your interest in contributing to the Spotify Dashboard!
 
