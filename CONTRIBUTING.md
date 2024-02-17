@@ -30,14 +30,14 @@ To contribute to the Spotify Dashboard, follow these steps:
 If you encounter a bug while using the [Spotify Dashboard](https://github.com/ubco-mds-2023-labs/milestone1-group13), please follow these steps to report it:
 
 1.  Check the [existing issues](https://github.com/ubco-mds-2023-labs/milestone1-group13/issues) to see if the bug has already been reported.\
-2.  If it hasn't been reported, [create a new issue](https://github.com/ubco-mds-2023-labs/milestone1-group13/issues/new) and provide detailed information about the bug, including steps to reproduce it.
+2.  If it hasn't been reported, [create a new issue](https://github.com/ubco-mds-2023-labs/milestone1-group13/issues/new/choose) and provide detailed information about the bug, including steps to reproduce it.
 
 ### Feature Requests
 
 If you have an idea for a new feature or enhancement, please follow these steps to suggest it:
 
-1.  Check the [existing issues](https://github.com/example/project/issues) to see if the feature has already been requested.
-2.  If it hasn't been requested, [create a new issue](https://github.com/example/project/issues/new) and describe the feature you'd like to see.
+1.  Check the [existing issues](https://github.com/ubco-mds-2023-labs/milestone1-group13/issues) to see if the feature has already been requested.
+2.  If it hasn't been requested, [create a new issue](hhttps://github.com/ubco-mds-2023-labs/milestone1-group13/issues/new/choose) and describe the feature you'd like to see.
 
 ### Code Contributions
 
